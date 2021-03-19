@@ -163,9 +163,9 @@ public class TemplateChar extends CustomPlayer {
         //TODO: Change these.
         @SpireEnum
         public static AbstractPlayer.PlayerClass templateEnum;
-        @SpireEnum(name = "TODO_COLOR")
+        @SpireEnum(name = "TEMPLATE_COLOR")
         public static AbstractCard.CardColor templateColor;
-        @SpireEnum(name = "TODO_COLOR")
+        @SpireEnum(name = "TEMPLATE_COLOR")
         @SuppressWarnings("unused")
         public static CardLibrary.LibraryType LIBRARY_COLOR;
     }
