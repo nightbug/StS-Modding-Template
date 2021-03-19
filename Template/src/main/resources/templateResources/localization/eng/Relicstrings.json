@@ -1,0 +1,9 @@
+{
+  "${ModID}:CharacterStarterRelic": {
+    "NAME": "WIP RELIC",
+    "FLAVOR": "It'll be finished in due time.",
+    "DESCRIPTIONS": [
+      "Has no effect."
+    ]
+  }
+}
