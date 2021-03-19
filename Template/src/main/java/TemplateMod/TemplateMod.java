@@ -32,7 +32,7 @@ public class TemplateMod implements
         EditKeywordsSubscriber,
         EditCharactersSubscriber {
 
-    public static final String modID = "templatemod";
+    public static final String modID = "templateMod";
 
     public static String makeID(String idText) {
         return modID + ":" + idText;
